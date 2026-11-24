@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Mouse Jumper+
+Comment=Shares this keyboard and mouse with the MacBook
+Exec=sh -c "$HOME/.local/bin/mjp-server-loop"
+X-GNOME-Autostart-enabled=true
+NoDisplay=true

@@ -85,3 +85,7 @@ That's one keyboard, one mouse, one magnifier and one screen reader across both 
 ## What's next
 
 Mouse Jumper+ is being actively tuned to work with **Lucent**, a screen magnifier app from the same creator.
+
+## Get started
+
+Setup steps for both computers are in [INSTALL.md](INSTALL.md). Mouse Jumper+ is free and open source under the [MIT License](LICENSE).
