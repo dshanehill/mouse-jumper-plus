@@ -82,6 +82,12 @@ That's one keyboard, one mouse, one magnifier and one screen reader across both 
 - Both computers on the same network, or connected through Tailscale
 - To hear Linux text read aloud: a Mac screen reader such as [Reader+](https://github.com/dshanehill/reader-plus), installed separately
 
+## Companion app: Audio Abduction+
+
+**[Audio Abduction+](https://github.com/dshanehill/audio-abduction-plus)** does for sound what Mouse Jumper+ does for the keyboard and mouse. One click on its tray icon in Linux Mint sends all of the Linux PC's audio to the Mac, where it plays through the Mac's speakers or headphones.
+
+It's especially handy if you wear Bluetooth headphones with your Mac: they stay paired to the Mac, and you skip the Bluetooth audio problems Linux is known for. Audio Abduction+ is a separate app and isn't included with Mouse Jumper+.
+
 ## What's next
 
 Mouse Jumper+ is being actively tuned to work with **Lucent**, a screen magnifier app from the same creator.
